@@ -1,0 +1,9 @@
+App
+    Menu
+    Products
+        Product-List
+    Message
+    Cart
+        Cart-List
+        Cart-Result
+    Footer
